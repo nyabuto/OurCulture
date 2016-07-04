@@ -1,0 +1,38 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="theme_corner_radius">5dp</dimen>
+    <dimen name="list_horizontal_margin">0dp</dimen>
+
+    <!-- SP adjusts according the users setting, DP is static -->
+    <dimen name="textsize_xlarge">28dp</dimen>
+    <dimen name="textsize_large">24dp</dimen>
+    <dimen name="textsize_medium_large">20dp</dimen>
+    <dimen name="textsize_medium">18sp</dimen>
+    <dimen name="textsize_medium_small">15sp</dimen>
+    <dimen name="textsize_medium_small_static">15dp</dimen>
+    <dimen name="textsize_small">14sp</dimen>
+    <dimen name="textsize_xsmall">10sp</dimen>
+
+
+    <!--  Dimensions for teh login screen and signup elements-->
+    <dimen name="pad_5dp">5dp</dimen>
+    <dimen name="pad_10dp">10dp</dimen>
+    <dimen name="pad_15dp">15dp</dimen>
+    <dimen name="pad_20dp">20dp</dimen>
+    <dimen name="pad_30dp">30dp</dimen>
+
+    <dimen name="txt_7sp">7sp</dimen>
+    <dimen name="txt_12sp">12sp</dimen>
+    <dimen name="txt_13sp">13sp</dimen>
+    <dimen name="txt_14sp">14sp</dimen>
+    <dimen name="txt_15sp">15sp</dimen>
+    <dimen name="txt_16sp">16sp</dimen>
+    <dimen name="txt_18sp">18sp</dimen>
+    <dimen name="txt_20sp">20sp</dimen>
+
+</resources>

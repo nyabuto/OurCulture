@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/material_teal_50">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Book"
+        android:layout_marginLeft="@dimen/pad_10dp"
+        android:layout_centerHorizontal="true"
+        style="@style/btn_white_large"
+        android:height="60dp"
+        android:id="@+id/btnSave" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Book and view culture"
+        android:id="@+id/btnBookCulture"
+        style="@style/btn_white_large"
+        android:layout_below="@+id/btnSave"
+        android:layout_marginTop="10dp"
+        android:height="60dp"
+        android:layout_marginLeft="@dimen/pad_10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_centerHorizontal="true" />
+
+
+
+</RelativeLayout>

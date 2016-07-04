@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OurCulture</string>
+    <string name="title_activity_map">Book Hotel</string>
+    <string name="title_activity_our_culture">Our Culture</string>
+    <string name="title_activity_culture">Culture</string>
+    <string name="title_activity_add_translator">Add new Translator</string>
+    <string name="select_string">Select an item</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="languages">
+        <item>Kikuyu</item>
+        <item>Luhya</item>
+        <item>Maasai</item>
+        <item>Kamba</item>
+        <item>Luo</item>
+        <item>Kisii</item>
+        <item>Swahili</item>
+        <item>Kalenjin</item>
+        <item>Spanish</item>
+        <item>German</item>
+        <item>Chinese</item>
+        <item>Arabic</item>
+
+
+    </string-array>
+    <string name="title_activity_translator_list">TranslatorList</string>
+</resources>
